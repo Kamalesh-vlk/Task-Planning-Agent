@@ -36,8 +36,11 @@ GEMINI_API_KEY=your_gemini_api_key_here
 - Sends them to Google Gemini with a prompt asking for categorization.
 
 - Prints the results in a priority-based format.
-
-
+## 🚀 Usage
+To run the Task Categorization Agent with a Streamlit UI:
+```
+streamlit run task_agentgs.py
+```
 ## 📄 Sample Output
 
  Task Summary
